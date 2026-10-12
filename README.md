@@ -156,13 +156,6 @@ An AI-powered resume generation and tailoring application designed to align resu
 
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ptpnaji123/ptpnaji123/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
 
 *The contribution animation requires a GitHub Actions workflow to generate the SVG and publish it to the `output` branch.*
 
