@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Mohammed%20Naji&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Research%20Associate%20%7C%20AI%20%26%20Data%20Science%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Mohammed Naji — AI and Data Science Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLMs;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science" alt="AI and Data Science introduction"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Generative+AI+%26+Large+Language+Models;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science;Building+AI-Powered+Applications" alt="Animated introduction"/>
