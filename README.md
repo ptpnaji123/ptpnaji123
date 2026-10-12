@@ -2,19 +2,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Generative+AI+%26+LLMs;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science" alt="AI and Data Science introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Mohammed%20Naji&fontSize=48&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Mohammed Naji - AI and Data Science Engineer"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Generative+AI+%26+Large+Language+Models;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science;Building+AI-Powered+Applications" alt="Animated introduction"/>
+### AI Research Associate | AI & Data Science Engineer
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLMs;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science;Building+AI-Powered+Applications" alt="Animated introduction"/>
 </a>
 
 <p>
-<a href="https://github.com/ptpnaji123"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohammednaji47/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:ptpnaji9447@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ptpnaji123">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammednaji47/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:ptpnaji9447@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
-📍 Kerala, India &nbsp; · &nbsp; 🌍 Open to International Opportunities
+📍 Kerala, India &nbsp; | &nbsp; 🌍 Open to International Opportunities
 
 </div>
 
@@ -22,37 +30,37 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Mohammed Naji, an AI Research Associate with a background in Artificial Intelligence and Data Science. I'm interested in developing intelligent applications using machine learning, large language models, and AI-driven automation.
+Hi! I'm Mohammed Naji, an AI Research Associate with an academic background in Artificial Intelligence and Data Science. I enjoy exploring AI technologies and building practical applications using machine learning, large language models, and intelligent automation.
 
 - 🎓 B.Tech in Artificial Intelligence and Data Science
 - 💼 AI Research Associate at Keywords Studios
 - 📚 Pursuing an online Master's in Data Science
 - 🤖 Experience in prompt engineering, AI model evaluation, annotation, and quality validation
-- 🧠 Exploring Agentic AI, LLMs, RAG, NLP, and intelligent automation
-- 🛠️ Building projects across AI applications, cybersecurity, and data engineering
+- 🧠 Exploring Agentic AI, LLMs, Retrieval-Augmented Generation (RAG), and NLP
+- 🛠️ Interested in AI-powered applications, cybersecurity automation, and data engineering
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
 
-### AI, Machine Learning & Data Science
+### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI and machine learning tools"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="Machine learning technologies"/>
 
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/LLMs-Generative%20AI-7C3AED?style=flat-square" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Evaluation-0891B2?style=flat-square" alt="Prompt engineering"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-0D9488?style=flat-square" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-7C3AED?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Evaluation-0891B2?style=for-the-badge" alt="Prompt engineering"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-0D9488?style=for-the-badge" alt="Agentic AI"/>
 
-### Data Engineering & Databases
+### 📊 Data Engineering & Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode" alt="Data and development tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode" alt="Data and developer tools"/>
 
-<img src="https://img.shields.io/badge/Apache%20Airflow-Workflow%20Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 <img src="https://img.shields.io/badge/dbt-Data%20Transformation-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
 <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111827?style=flat-square" alt="Ollama"/>
 <img src="https://img.shields.io/badge/Streamlit-Data%20Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
@@ -66,73 +74,74 @@ Hi! I'm Mohammed Naji, an AI Research Associate with a background in Artificial 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ Multi-Agent AI SOC Analyst</h3>
+### 🛡️ Multi-Agent AI SOC Analyst
 
-An AI-assisted cybersecurity workflow for investigating security incidents.
+An AI-assisted workflow for cybersecurity incident investigation.
 
-- Specialized agents for detection, investigation, threat intelligence, risk assessment, response, and reporting.
+- Specialized agents for detection and investigation.
+- Threat intelligence and risk assessment.
+- Response recommendations and incident reporting.
 - Local LLM integration using Ollama.
-- Risk-based analysis with approval requirements for certain responses.
 
-**Technologies:** Python · Agentic AI · Ollama · Cybersecurity
+**Technologies:** Python, Agentic AI, Ollama, Cybersecurity
 
-<a href="https://github.com/ptpnaji123">View my repositories →</a>
+<a href="https://github.com/ptpnaji123">Explore repositories →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧑‍💼 Manager–Employee Feedback Coach</h3>
+### 🧑‍💼 Manager–Employee Feedback Coach
 
-An AI-powered application for rehearsing challenging workplace conversations.
+An AI-powered application for practicing difficult workplace conversations.
 
-- Conversation preparation and role-play workflows.
-- LLM-driven employee and manager interactions.
-- Browser-based speech input and text-to-speech support.
+- Conversation preparation and rehearsal.
+- LLM-driven role-play interactions.
+- Browser-based speech input and text-to-speech.
 
-**Technologies:** Python · Flask · LLMs · Speech Processing
+**Technologies:** Python, Flask, LLMs, Speech Processing
 
-<a href="https://github.com/ptpnaji123">View my repositories →</a>
+<a href="https://github.com/ptpnaji123">Explore repositories →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📧 Smart AI-Powered Email Assistant</h3>
+### 📧 Smart AI-Powered Email Assistant
 
-An intelligent email application combining message classification and AI-generated responses.
+An intelligent email application for message classification and AI-assisted email generation.
 
 - Gmail API integration for email retrieval.
-- Classification into spam, general, promotions, and social categories.
+- Classification into spam, general, promotions, and social.
 - Prompt-based email generation using a local LLM.
 
-**Technologies:** Python · Flask · Gmail API · Ollama · NLP
+**Technologies:** Python, Flask, Gmail API, Ollama, NLP
 
-<a href="https://github.com/ptpnaji123">View my repositories →</a>
+<a href="https://github.com/ptpnaji123">Explore repositories →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📊 ITSM Data Pipeline</h3>
+### 📊 ITSM Data Pipeline
 
-A data engineering pipeline for transforming IT service management ticket data.
+A data engineering workflow for processing IT service management ticket data.
 
 - Data ingestion into PostgreSQL.
 - Transformation and modeling with dbt.
 - Workflow orchestration using Apache Airflow.
-- Data exploration and visualization with Apache Superset.
+- Visualization with Apache Superset.
 
-**Technologies:** PostgreSQL · dbt · Airflow · Docker · Superset
+**Technologies:** PostgreSQL, dbt, Airflow, Docker, Superset
 
-<a href="https://github.com/ptpnaji123">View my repositories →</a>
+<a href="https://github.com/ptpnaji123">Explore repositories →</a>
 
 </td>
 </tr>
 </table>
 
-> Replace the project links above with the actual repository URLs once each project is published on GitHub.
+> Update each project link to its specific GitHub repository when available.
 
-## 📈 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -150,7 +159,7 @@ A data engineering pipeline for transforming IT service management ticket data.
 
 </div>
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -158,9 +167,9 @@ A data engineering pipeline for transforming IT service management ticket data.
 
 </div>
 
-*The snake animation requires a GitHub Actions workflow to generate and publish the SVG to the `output` branch.*
+*The contribution animation requires a GitHub Actions workflow to generate the SVG and publish it to the `output` branch.*
 
-## 🎯 Current Interests
+## 🎯 Areas of Interest
 
 <div align="center">
 
@@ -171,15 +180,21 @@ A data engineering pipeline for transforming IT service management ticket data.
 
 </div>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohammednaji47/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Naji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohammednaji47/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Naji-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-<a href="mailto:ptpnaji9447@gmail.com"><img src="https://img.shields.io/badge/Email-ptpnaji9447%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:ptpnaji9447@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<a href="https://github.com/ptpnaji123"><img src="https://img.shields.io/badge/GitHub-ptpnaji123-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/ptpnaji123">
+<img src="https://img.shields.io/badge/GitHub-ptpnaji123-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
