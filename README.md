@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Mohammed%20Naji&fontSize=48&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Mohammed Naji - AI and Data Science Engineer"/>
 
-### AI Research Associate | AI & Data Science Engineer
+### AI & Data Science Engineer
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Generative+AI+%26+LLMs;Agentic+AI+%26+Intelligent+Automation;Machine+Learning+%26+Data+Science;Building+AI-Powered+Applications" alt="Animated introduction"/>
